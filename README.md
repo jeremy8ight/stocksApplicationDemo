@@ -1,6 +1,6 @@
 # stocksApplicationDemo
 
-This is demo to showcase a stock application:
+This is a demo to showcase a stocks application:
 
 Demo video of the application:
 
